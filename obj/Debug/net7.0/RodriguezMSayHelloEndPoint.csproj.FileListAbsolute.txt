@@ -31,3 +31,36 @@
 /Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.pdb
 /Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.genruntimeconfig.cache
 /Users/marcosrodriguez/Documents/CodeStack/level2/week2/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/ref/RodriguezMSayHelloEndPoint.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/appsettings.Development.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/appsettings.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/RodriguezMSayHelloEndPoint
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/RodriguezMSayHelloEndPoint.deps.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/RodriguezMSayHelloEndPoint.runtimeconfig.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/RodriguezMSayHelloEndPoint.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/RodriguezMSayHelloEndPoint.pdb
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.csproj.AssemblyReference.cache
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.AssemblyInfoInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.AssemblyInfo.cs
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.csproj.CoreCompileInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.RodriguezMSayHelloEndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.build.RodriguezMSayHelloEndPoint.props
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RodriguezMSayHelloEndPoint.props
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RodriguezMSayHelloEndPoint.props
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets.build.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/staticwebassets.development.json
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/scopedcss/bundle/RodriguezMSayHelloEndPoint.styles.css
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.csproj.CopyComplete
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/refint/RodriguezMSayHelloEndPoint.dll
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.pdb
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/RodriguezMSayHelloEndPoint.genruntimeconfig.cache
+/Users/zahidafsar/Documents/Codestack 2024/Second Level/Peer Review - Marcos/RodriguezMSayHelloEndPoint/obj/Debug/net7.0/ref/RodriguezMSayHelloEndPoint.dll
