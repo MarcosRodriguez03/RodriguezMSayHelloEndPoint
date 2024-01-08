@@ -10,7 +10,7 @@ public class SayHelloController
     public List<string> sentence = new();
 
     [HttpPost]
-    [Route("SayHelloMachine/name")]
+    [Route("SayHelloMachine/{name}")]
 
     public List<string> SayHelloMachine(string name)
     {
